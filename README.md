@@ -1,1 +1,1 @@
-# filecoin-salesforce-files-connect
+# ipfs-salesforce-files-connect
