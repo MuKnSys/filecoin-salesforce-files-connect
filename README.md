@@ -19,6 +19,6 @@ The options displayed to the user when uploading a file to a Salesforce _Standar
 ## How to Use the App
 
 A Salesforce Administrator would do the following to set up this application within his/her Salesforce Org. 
-	1	Install the application 
-	2	Set up an Auth Provider
-	3	Set up an External Data Source
+	1. Install the application 
+	2. Set up an Auth Provider
+	3. Set up an External Data Source
