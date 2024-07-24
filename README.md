@@ -23,3 +23,5 @@ A Salesforce Administrator would do the following to set up this application wit
 1. Install the application.
 1. Set up an Auth Provider.
 1. Set up an External Data Source.
+
+## License
