@@ -1,6 +1,6 @@
 # ipfs-salesforce-files-connect
 
-![](documentation_and_images/ipfs-salesforce-files-connect-thumbnail.png)
+![](documentation_and_images/filecoin-salesforce-files-connect-thumbnail.png)
 
 ## An Overview of Salesforce Files Connect
 
