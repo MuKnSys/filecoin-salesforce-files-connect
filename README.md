@@ -1,4 +1,4 @@
-# filecoin-salesforce-files-connect
+# Filecoin for Salesforce Files Connect
 
 ![](documentation_and_images/filecoin-salesforce-files-connect-thumbnail.png)
 
