@@ -1,4 +1,4 @@
-# ipfs-salesforce-files-connect
+# Filecoin for Salesforce Files Connect
 
 ![](documentation_and_images/ipfs-salesforce-files-connect-thumbnail.png)
 
