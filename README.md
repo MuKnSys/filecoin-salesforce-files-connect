@@ -26,4 +26,4 @@ A Salesforce Administrator would do the following to set up this application wit
 
 ## License
 
-Copyright 2023 Web3 Enabler, Inc. Filecoin for Salesforce Files Connect is distributed under the GPL licence, version 3.0. For more information, see the [LICENSE file]().
+Copyright 2023 Web3 Enabler, Inc. Filecoin for Salesforce Files Connect is distributed under the GPL licence, version 3.0. For more information, see the [LICENSE file](https://github.com/MuKnSys/filecoin-salesforce-files-connect/blob/main/LICENSE).
