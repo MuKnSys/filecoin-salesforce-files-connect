@@ -25,3 +25,5 @@ A Salesforce Administrator would do the following to set up this application wit
 1. Set up an External Data Source.
 
 ## License
+
+Copyright 2023 Web3 Enabler, Inc. Filecoin for Salesforce Files Connect is distributed under the GPL licence, version 3.0. For more information, see the
